@@ -1,6 +1,0 @@
-id,name,category,supplier,unit_cost,min_limit,safety_stock,pack_size
-1,Whole Milk 1L,Dairy,FarmFresh,125,50,20,12
-2,Greek Yogurt,Dairy,FarmFresh,180,30,15,6
-3,Sliced Bread,Bakery,DailyBake,150,40,20,10
-4,Free Range Eggs 12pk,Dairy,HappyHens,290,25,10,8
-5,Avocado,Produce,GreenFarms,99,60,30,24

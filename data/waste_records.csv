@@ -1,4 +1,0 @@
-id,product_id,batch_id,quantity,reason,date
-1,1,1,2,damaged,2026-10-02
-2,3,5,1,expired,2026-10-06
-3,5,7,3,damaged,2026-10-08
